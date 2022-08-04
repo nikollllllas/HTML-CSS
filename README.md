@@ -3,4 +3,4 @@
  
  Estudando HTML e CSS, no momento, gerenciando repositórios!
 
-<a href="https://nikollllllas.github.io/HTML-CSS/exercicios/">Ir para Exercícios.</a>
+<a href="https://nikollllllas.github.io/HTML-CSS/exercicios/ex001/index.html">Ir para Exercícios.</a>
