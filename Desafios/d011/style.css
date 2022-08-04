@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: none;
+    box-sizing: border-box;
+    font-size: 1em;
+}
+
+body{
+    background-image: url(imagens/espaco.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: rgba(75, 75, 224, 0.664);
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+div{
+    transform: translateY(80%);
+}
+
+.astro{
+    height: auto;
+    max-width: 100%;
+    
+}
