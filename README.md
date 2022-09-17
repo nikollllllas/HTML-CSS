@@ -13,5 +13,9 @@
         <ol><a href="https://nikollllllas.github.io/HTML-CSS/Exercicios/ex006/html4.html">HTML4</a></ol>
         <ol><a href="https://nikollllllas.github.io/HTML-CSS/Exercicios/ex006/html5.html">HTML5</a></ol>
     </li>
+    <li><a href="https://nikollllllas.github.io/HTML-CSS/Exercicios/ex007/index.html">Ir para Exercício 7.</a></li>
+    <li><a href="https://nikollllllas.github.io/HTML-CSS/Exercicios/ex008/index.html">Ir para Exercício 8.</a></li>
+    <li><a href="https://nikollllllas.github.io/HTML-CSS/Exercicios/ex009/index.html">Ir para Exercício 9.</a></li>
+    <li><a href="https://nikollllllas.github.io/HTML-CSS/Exercicios/ex010/index.html">Ir para Exercício 10.</a></li>
 </ul>
 
