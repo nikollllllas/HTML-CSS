@@ -18,7 +18,7 @@ caption{
 }
 
 #populacao{
-    width: 70px;
+    width: 100px;
 }
 
 td,th{
@@ -28,6 +28,10 @@ td,th{
 thead, tfoot{
     background-color: gray;
     color: white;
+}
+
+tbody > tr:nth-child(even){
+    background-color: lightgray;
 }
 
 td.num{
