@@ -7,6 +7,18 @@ body{
 table{
     width: 500px;
     border-collapse: collapse;
+    
+}
+
+caption{
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 10px;
+    background-color: rgb(170, 170, 170);
+}
+
+#populacao{
+    width: 70px;
 }
 
 td,th{

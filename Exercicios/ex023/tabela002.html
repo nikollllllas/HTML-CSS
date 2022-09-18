@@ -10,10 +10,13 @@
 <body>
     <h1>Tabelas Grandes!</h1>
     <table>
+        <caption>
+            População das Unidades Federativas
+        </caption>
         <thead>
             <tr>
-                <th>Estado</th>
-                <th>População</th>
+                <th scope="col">Estado</th>
+                <th scope="col" id="populacao">População</th>
             </tr>
         </thead>
         <tbody>
@@ -128,8 +131,8 @@
         </tbody>
         <tfoot>
             <tr>
-                <th>Total de Habitantes</th>
-                <td class="num">213 317 639</td>
+                <th scope="row">Total de Habitantes</th>
+                <td class="num"><strong>213 317 639</strong></td>
             </tr>
         </tfoot>
     </table>
